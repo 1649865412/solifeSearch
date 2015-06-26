@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="solifeSearch"
+  id="myeclipse.1224556427492"
+  context-root="/solifeSearch"
+  j2ee-spec="1.4"
+  archive="solifeSearch.war">
+  <attributes>
+    <attribute name="webrootdir" value="/web" />
+  </attributes>
+</project-module>
+
